@@ -1,6 +1,6 @@
 # Bilgisayar Mühendisliği Ders Notları
 
-Merhaba! Burada almış olduğum bazı derslere ilişkin kendi notlarımı sizlerle paylaşıyorum.  Umarım faydalı olur.
+Merhaba! Burada almış olduğum bazı derslere ilişkin kendi notlarımı sizlerle paylaşıyorum.  Umarım faydalı olur. (:
 
  #  2019 - 2020 
 ## Olasılık ve İstatistik
